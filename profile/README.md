@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alexis900.github.io/neodos-web/"><strong>Website</strong></a> ·
+  <a href="https://neodos-project.github.io/neodos-web/"><strong>Website</strong></a> ·
   <a href="https://github.com/NeoDOS-Project/NeoDOS">Main repository</a> ·
   <a href="https://github.com/NeoDOS-Project/NeoDOS/blob/develop/ROADMAP.md">Roadmap</a> ·
   <a href="https://github.com/NeoDOS-Project/NeoDOS/blob/develop/docs/README.md">Documentation</a>
